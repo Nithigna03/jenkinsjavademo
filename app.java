@@ -1,4 +1,4 @@
-public class App1{
+public class app{
 
     public static void main(String[] args){
         System.out.println("Java App Pulled & Build by Jenkins");
